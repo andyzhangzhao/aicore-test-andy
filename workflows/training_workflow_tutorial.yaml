@@ -10,7 +10,7 @@ metadata:
     artifacts.ai.sap.com/text-data.kind: "dataset"
     artifacts.ai.sap.com/text-model-tutorial.kind: "model"
   labels:
-    scenarios.ai.sap.com/id: "text-clf-tutorial"
+    scenarios.ai.sap.com/id: "text-clf-tutorial-andy"
     executables.ai.sap.com/id: "text-clf-train-tutorial"
     ai.sap.com/version: "1.0.0"
 spec:
