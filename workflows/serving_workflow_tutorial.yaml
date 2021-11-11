@@ -4,7 +4,7 @@ metadata:
   name: text-clf-infer-tutorial
   annotations:
     scenarios.ai.sap.com/description: "SAP AI Core tutorial scenario"
-    scenarios.ai.sap.com/name: "text-clf-tutorial-scenario"
+    scenarios.ai.sap.com/name: "text-clf-tutorial-scenario-andy"
     executables.ai.sap.com/description: "Inference executable for text classification with Scikit-learn"
     executables.ai.sap.com/name: "text-clf-infer-tutorial-exec"
   labels:
